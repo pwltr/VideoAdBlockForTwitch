@@ -28,6 +28,6 @@ The original author decided to be a bitch by adding his amazon ref-link to his c
 # Credits
 - [@saucettv](https://github.com/saucettv) (original Author)
 - [@mikirobles](https://github.com/mikirobles) (thanks for removing the Donation-Stuff etc.)
-- [@pwltr](https://github.com/pwltr) (thanks for adding the GPL-License and helping with Manifest v3)
-- [@HatterTheMadd](https://github.com/hatterthemadd) (thanks for updating the manifest.json and helping with Manifest v3)
+- [@pwltr](https://github.com/pwltr) (thanks for adding the GPL-License)
+- [@HatterTheMadd](https://github.com/hatterthemadd) (thanks for updating the manifest.json)
 - [@kdjmonaghan](https://github.com/kdjmonaghan) (thanks for adding clearer instructions for less advanced users)
