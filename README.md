@@ -25,8 +25,8 @@ The original author decided to be a bitch by adding his amazon ref-link to his c
 # Objective of this fork
 
 - Keeping it donation- and ref-link free and ofcourse ___always open source___
-- Migrating to Manifest v3 (Chrome)
-- Publishing to the Chrome Webstore
+- ~~Migrating to Manifest v3 (Chrome)~~ done ✔
+- Publishing to the Chrome Webstore - __in progress__
 
 # Credits
 - [@saucettv](https://github.com/saucettv) (original Author)
