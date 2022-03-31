@@ -12,7 +12,7 @@ The original author decided to be a bitch by adding his amazon ref-link to his c
 
 # Installation Steps
 
-- [Download the latest .ZIP Archive](https://github.com/cleanlock/VideoAdBlockForTwitch/archive/refs/heads/master.zip)
+- [Download the latest .ZIP Archive](https://github.com/cleanlock/VideoAdBlockForTwitch/archive/refs/tags/v5.3.5.zip)
 - Extract the ZIP Archive
 - Open up Chrome and in your Web Browser URL, enter: `chrome://extensions`
 - Enable the `Developer Mode` toggle, found in the top right of this view (typically) of the extensions page in your browser.
