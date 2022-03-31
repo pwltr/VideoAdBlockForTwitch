@@ -10,6 +10,9 @@ This video adblock for Twitch extension will swap Twitch video ads for an ad-fre
 
 The original author decided to be a bitch by adding his amazon ref-link to his chrome extension. I've removed that part entirely.
 
+# Support
+- https://discord.gg/Zm6USraM
+
 # Installation Steps
 
 - [Download the latest .ZIP Archive](https://github.com/cleanlock/VideoAdBlockForTwitch/archive/refs/tags/v5.3.5.zip)
